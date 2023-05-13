@@ -23,3 +23,13 @@ p{
 h1{
     font-size: 40px;
 }
+
+#main {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+    margin-top: 60px;
+    font-size: 22px;
+}
