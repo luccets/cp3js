@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+body{
+    /* background-color: #151e3d; */
+}
+
+.container1{
+    width: 100%;
+    height: 12vh;
+    background-color: #151e3d;
+    padding: 0 20px;
+}
+.container2{
+    width: 100%;
+    height: 100vh;
+    background-repeat: none;
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+}
+.bg-image{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0, 0.6)),
+    url(../images/thumb-1920-1052293.jpg)
+}
+.bg-image1{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0, 0.6)),
+    url(../images/High_resolution_wallpaper_background_ID_77700882441.jpg);
+}
+.bg-image2{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0, 0.6)),
+    url(../images/1082090.jpg);
+}
+.bg-image3{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0, 0.6)),
+    url(../images/a294b593769b6bf61b55c152032e7459.jpg);
+}
+.bg-image4{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0, 0.6)),
+    url(../images/903580.png);
+}
+.bg-image5{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0, 0.6)),
+    url(../images/1282982.jpg);
+}
+a{
+    color: #DAC8B3;
+    font-size: 3vmin;
+    text-decoration: none;
+}
+h3{
+    padding-top: 30px;
+    font-size: 24px;
+}

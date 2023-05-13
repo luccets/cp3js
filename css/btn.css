@@ -1,0 +1,96 @@
+.btn{
+    border: 2px transparent #000;
+    box-shadow: 1px 1px 20px #63c5da;
+    border-radius: 40px;
+    background-color: transparent;
+    padding: 12px;
+}
+.btn:hover{
+    padding: 16px;
+    box-shadow: 1px 1px 10px #63c5da;
+    border: 2px solid #63c5da;
+    transition: .5s;
+}
+.btn2{
+    border: 2px transparent #610c04;
+    box-shadow: 1px 1px 30px #900d09;
+    border-radius: 40px;
+    background-color: #610c04;
+    padding: 12px;
+}
+.btn2:hover{
+    padding: 16px;
+    background-color: transparent;
+    transition: .5s;
+}
+.btn3{
+    border: 2px transparent #466d1d;
+    box-shadow: 1px 1px 30px #74b72e;
+    border-radius: 40px;
+    background-color:#466d1d;
+    padding: 12px;
+}
+.btn3:hover{
+    padding: 16px;
+    background-color: transparent;
+    transition: .5s;
+}
+.btn4{
+    border: 2px transparent #710193;
+    box-shadow: 1px 1px 30px #a45ee5;
+    border-radius: 40px;
+    background-color:#710193;
+    padding: 12px;
+}
+.btn4:hover{
+    padding: 16px;
+    background-color: transparent;
+    transition: .5s;
+}
+.btn5{
+    border: 2px transparent #281e5d;
+    box-shadow: 1px 1px 30px #241571;
+    border-radius: 40px;
+    background-color:#281e5d;
+    padding: 12px;
+}
+.btn5:hover{
+    padding: 16px;
+    background-color: transparent;
+    transition: .5s;
+}
+.btn6{
+    border: 2px transparent #a91b0d;
+    box-shadow: 1px 1px 30px #d21404;
+    border-radius: 40px;
+    background-color:#a91b0d;
+    padding: 12px;
+}
+.btn6:hover:hover{
+    padding: 16px;
+    background-color: transparent;
+    transition: .5s;
+}
+
+.tema1 {
+    border: 2px transparent #000;
+    box-shadow: 1px 1px 20px #63c5da;
+    border-radius: 40px;
+    background-color: transparent;
+    padding: 12px;
+    color: #fff; 
+    background-color: #63c5da;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.tema2{
+    border: 2px transparent #000;
+    box-shadow: 1px 1px 20px #63c5da;
+    border-radius: 40px;
+    background-color: transparent;
+    padding: 12px;
+    color: #fff; 
+    background-color: #151e3d;
+    transition: all 0.5s ease-in-out;
+}

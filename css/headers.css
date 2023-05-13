@@ -1,0 +1,24 @@
+.header-page{
+    width: 90%;
+    height: 12vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px;
+    position: absolute;
+    top: 2px;
+    color: #dac8bc;
+    
+}
+h2{
+    margin-right: auto;
+    font-size: 50px;
+}
+.header-menu ul{
+    display: flex;
+    gap: 20px;
+}
+.header-menu a{color: #dac8bc;}
+a:hover{
+    color: #63c5da !important;
+}
